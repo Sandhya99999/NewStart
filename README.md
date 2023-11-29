@@ -1,4 +1,2 @@
-# Welcome to Github NewStart
-
-NewStart
+# NewStart
 Learning
